@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nutchapol Rodpholchoo</h1>
-<h3 align="center">Data engineering and analytics professions | Arch Linux Enthusiast | Aspiring Quantitative Researcher</h3>
-
-- 🌱 I’m currently learning **Quantitative engineering**
+<h3 align="center">Data engineering and analytics professions | Arch Linux Enthusiast | AI Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
