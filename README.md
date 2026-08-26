@@ -60,8 +60,3 @@ I am a data engineer who is passionate about designing end-to-end data pipelines
 </p>
 
 <br>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smiffeed&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
