@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nutchapol Rodpholchoo
 
-### 🚀 Data Engineer | AI Engineer | Cloud Architect
+### 🚀 Data Engineer | AI Engineer
 
 I am a data engineer who is passionate about designing end-to-end data pipelines, exploring emerging technologies, and delivering solutions through hands-on projects. Committed to continuous learning and applying engineering principles to solve real-world data challenges.
 
