@@ -47,10 +47,11 @@ I am an engineer driven by a commitment to continuous learning and solving compl
 
 ### 🏆 Certifications
 
-*   **WorldQuant Brain Gold Level** (Quantitative Finance & Modeling)
 *   **Data Engineering Zoomcamp**
+*   **Prompt Engineering** (LLM & Generative AI)
 *   **AWS Academy Cloud Foundations**
 *   **Databricks Fundamentals**
+*   **WorldQuant Brain Gold Level** (Quantitative Finance & Modeling)
 
 ---
 
