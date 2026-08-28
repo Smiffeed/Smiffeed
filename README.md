@@ -47,8 +47,9 @@ I am an engineer driven by a commitment to continuous learning and solving compl
 
 ### 🏆 Certifications
 
+*   **LLM Zoomcamp 2026** (Generative AI & LLMOps)
 *   **Data Engineering Zoomcamp**
-*   **Prompt Engineering** (LLM & Generative AI)
+*   **Prompt Engineering**
 *   **AWS Academy Cloud Foundations**
 *   **Databricks Fundamentals**
 *   **WorldQuant Brain Gold Level** (Quantitative Finance & Modeling)
